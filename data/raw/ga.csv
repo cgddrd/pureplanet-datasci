@@ -1,0 +1,391 @@
+date,category,metric,value
+2017-12-04,Branded Search,app_store,65
+2017-12-04,Branded Search,complete_quote,437
+2017-12-04,Branded Search,save_quote,165
+2017-12-04,Branded Search,start_quote,491
+2017-12-04,Branded Search,visitors,901
+2017-12-04,Direct Traffic,app_store,98
+2017-12-04,Direct Traffic,complete_quote,133
+2017-12-04,Direct Traffic,save_quote,56
+2017-12-04,Direct Traffic,start_quote,164
+2017-12-04,Direct Traffic,visitors,1834
+2017-12-04,Generic Search,app_store,495
+2017-12-04,Generic Search,complete_quote,2247
+2017-12-04,Generic Search,save_quote,889
+2017-12-04,Generic Search,start_quote,2858
+2017-12-04,Generic Search,visitors,12723
+2017-12-04,Organic,app_store,114
+2017-12-04,Organic,complete_quote,427
+2017-12-04,Organic,save_quote,161
+2017-12-04,Organic,start_quote,492
+2017-12-04,Organic,visitors,1180
+2017-12-04,Paid search,app_store,214
+2017-12-04,Paid search,complete_quote,1278
+2017-12-04,Paid search,save_quote,321
+2017-12-04,Paid search,start_quote,1746
+2017-12-04,Paid search,visitors,9131
+2017-12-04,Referral link,app_store,132
+2017-12-04,Referral link,complete_quote,835
+2017-12-04,Referral link,save_quote,509
+2017-12-04,Referral link,start_quote,935
+2017-12-04,Referral link,visitors,1615
+2017-12-11,Branded Search,app_store,47
+2017-12-11,Branded Search,complete_quote,371
+2017-12-11,Branded Search,save_quote,158
+2017-12-11,Branded Search,start_quote,412
+2017-12-11,Branded Search,visitors,814
+2017-12-11,Direct Traffic,app_store,70
+2017-12-11,Direct Traffic,complete_quote,103
+2017-12-11,Direct Traffic,save_quote,47
+2017-12-11,Direct Traffic,start_quote,113
+2017-12-11,Direct Traffic,visitors,1825
+2017-12-11,Generic Search,app_store,380
+2017-12-11,Generic Search,complete_quote,1842
+2017-12-11,Generic Search,save_quote,690
+2017-12-11,Generic Search,start_quote,2281
+2017-12-11,Generic Search,visitors,8597
+2017-12-11,Organic,app_store,109
+2017-12-11,Organic,complete_quote,342
+2017-12-11,Organic,save_quote,131
+2017-12-11,Organic,start_quote,387
+2017-12-11,Organic,visitors,1036
+2017-12-11,Paid search,app_store,127
+2017-12-11,Paid search,complete_quote,1075
+2017-12-11,Paid search,save_quote,274
+2017-12-11,Paid search,start_quote,1393
+2017-12-11,Paid search,visitors,5227
+2017-12-11,Referral link,app_store,117
+2017-12-11,Referral link,complete_quote,683
+2017-12-11,Referral link,save_quote,393
+2017-12-11,Referral link,start_quote,789
+2017-12-11,Referral link,visitors,1418
+2017-12-18,Branded Search,app_store,33
+2017-12-18,Branded Search,complete_quote,195
+2017-12-18,Branded Search,save_quote,80
+2017-12-18,Branded Search,start_quote,224
+2017-12-18,Branded Search,visitors,547
+2017-12-18,Direct Traffic,app_store,58
+2017-12-18,Direct Traffic,complete_quote,79
+2017-12-18,Direct Traffic,save_quote,32
+2017-12-18,Direct Traffic,start_quote,96
+2017-12-18,Direct Traffic,visitors,1660
+2017-12-18,Generic Search,app_store,196
+2017-12-18,Generic Search,complete_quote,1124
+2017-12-18,Generic Search,save_quote,431
+2017-12-18,Generic Search,start_quote,1391
+2017-12-18,Generic Search,visitors,4422
+2017-12-18,Organic,app_store,61
+2017-12-18,Organic,complete_quote,232
+2017-12-18,Organic,save_quote,90
+2017-12-18,Organic,start_quote,250
+2017-12-18,Organic,visitors,765
+2017-12-18,Paid search,app_store,40
+2017-12-18,Paid search,complete_quote,634
+2017-12-18,Paid search,save_quote,152
+2017-12-18,Paid search,start_quote,839
+2017-12-18,Paid search,visitors,1781
+2017-12-18,Referral link,app_store,68
+2017-12-18,Referral link,complete_quote,365
+2017-12-18,Referral link,save_quote,235
+2017-12-18,Referral link,start_quote,419
+2017-12-18,Referral link,visitors,834
+2017-12-25,Branded Search,app_store,33
+2017-12-25,Branded Search,complete_quote,197
+2017-12-25,Branded Search,save_quote,75
+2017-12-25,Branded Search,start_quote,219
+2017-12-25,Branded Search,visitors,491
+2017-12-25,Direct Traffic,app_store,41
+2017-12-25,Direct Traffic,complete_quote,52
+2017-12-25,Direct Traffic,save_quote,28
+2017-12-25,Direct Traffic,start_quote,56
+2017-12-25,Direct Traffic,visitors,1472
+2017-12-25,Generic Search,app_store,186
+2017-12-25,Generic Search,complete_quote,1100
+2017-12-25,Generic Search,save_quote,448
+2017-12-25,Generic Search,start_quote,1292
+2017-12-25,Generic Search,visitors,3831
+2017-12-25,Organic,app_store,64
+2017-12-25,Organic,complete_quote,205
+2017-12-25,Organic,save_quote,71
+2017-12-25,Organic,start_quote,233
+2017-12-25,Organic,visitors,594
+2017-12-25,Paid search,app_store,45
+2017-12-25,Paid search,complete_quote,639
+2017-12-25,Paid search,save_quote,159
+2017-12-25,Paid search,start_quote,777
+2017-12-25,Paid search,visitors,1493
+2017-12-25,Referral link,app_store,67
+2017-12-25,Referral link,complete_quote,394
+2017-12-25,Referral link,save_quote,261
+2017-12-25,Referral link,start_quote,438
+2017-12-25,Referral link,visitors,836
+2018-01-01,Branded Search,app_store,37
+2018-01-01,Branded Search,complete_quote,351
+2018-01-01,Branded Search,save_quote,148
+2018-01-01,Branded Search,start_quote,404
+2018-01-01,Branded Search,visitors,839
+2018-01-01,Direct Traffic,app_store,73
+2018-01-01,Direct Traffic,complete_quote,116
+2018-01-01,Direct Traffic,save_quote,53
+2018-01-01,Direct Traffic,start_quote,141
+2018-01-01,Direct Traffic,visitors,2265
+2018-01-01,Generic Search,app_store,317
+2018-01-01,Generic Search,complete_quote,2144
+2018-01-01,Generic Search,save_quote,781
+2018-01-01,Generic Search,start_quote,2585
+2018-01-01,Generic Search,visitors,6903
+2018-01-01,Organic,app_store,121
+2018-01-01,Organic,complete_quote,370
+2018-01-01,Organic,save_quote,127
+2018-01-01,Organic,start_quote,413
+2018-01-01,Organic,visitors,1138
+2018-01-01,Paid search,app_store,60
+2018-01-01,Paid search,complete_quote,1214
+2018-01-01,Paid search,save_quote,288
+2018-01-01,Paid search,start_quote,1520
+2018-01-01,Paid search,visitors,2758
+2018-01-01,Referral link,app_store,96
+2018-01-01,Referral link,complete_quote,778
+2018-01-01,Referral link,save_quote,453
+2018-01-01,Referral link,start_quote,895
+2018-01-01,Referral link,visitors,1708
+2018-01-08,Branded Search,app_store,73
+2018-01-08,Branded Search,complete_quote,624
+2018-01-08,Branded Search,save_quote,256
+2018-01-08,Branded Search,start_quote,717
+2018-01-08,Branded Search,visitors,1339
+2018-01-08,Direct Traffic,app_store,89
+2018-01-08,Direct Traffic,complete_quote,172
+2018-01-08,Direct Traffic,save_quote,89
+2018-01-08,Direct Traffic,start_quote,197
+2018-01-08,Direct Traffic,visitors,2752
+2018-01-08,Generic Search,app_store,424
+2018-01-08,Generic Search,complete_quote,3525
+2018-01-08,Generic Search,save_quote,1410
+2018-01-08,Generic Search,start_quote,4416
+2018-01-08,Generic Search,visitors,11700
+2018-01-08,Organic,app_store,130
+2018-01-08,Organic,complete_quote,586
+2018-01-08,Organic,save_quote,232
+2018-01-08,Organic,start_quote,662
+2018-01-08,Organic,visitors,1503
+2018-01-08,Paid search,app_store,140
+2018-01-08,Paid search,complete_quote,2048
+2018-01-08,Paid search,save_quote,533
+2018-01-08,Paid search,start_quote,2752
+2018-01-08,Paid search,visitors,6515
+2018-01-08,Referral link,app_store,136
+2018-01-08,Referral link,complete_quote,1318
+2018-01-08,Referral link,save_quote,805
+2018-01-08,Referral link,start_quote,1495
+2018-01-08,Referral link,visitors,2416
+2018-01-15,Branded Search,app_store,57
+2018-01-15,Branded Search,complete_quote,507
+2018-01-15,Branded Search,save_quote,217
+2018-01-15,Branded Search,start_quote,577
+2018-01-15,Branded Search,visitors,1118
+2018-01-15,Direct Traffic,app_store,87
+2018-01-15,Direct Traffic,complete_quote,146
+2018-01-15,Direct Traffic,save_quote,71
+2018-01-15,Direct Traffic,start_quote,176
+2018-01-15,Direct Traffic,visitors,2752
+2018-01-15,Generic Search,app_store,407
+2018-01-15,Generic Search,complete_quote,3086
+2018-01-15,Generic Search,save_quote,1187
+2018-01-15,Generic Search,start_quote,3778
+2018-01-15,Generic Search,visitors,11448
+2018-01-15,Organic,app_store,115
+2018-01-15,Organic,complete_quote,461
+2018-01-15,Organic,save_quote,193
+2018-01-15,Organic,start_quote,520
+2018-01-15,Organic,visitors,1346
+2018-01-15,Paid search,app_store,120
+2018-01-15,Paid search,complete_quote,1833
+2018-01-15,Paid search,save_quote,477
+2018-01-15,Paid search,start_quote,2357
+2018-01-15,Paid search,visitors,6408
+2018-01-15,Referral link,app_store,141
+2018-01-15,Referral link,complete_quote,1134
+2018-01-15,Referral link,save_quote,652
+2018-01-15,Referral link,start_quote,1282
+2018-01-15,Referral link,visitors,2226
+2018-01-22,Branded Search,app_store,69
+2018-01-22,Branded Search,complete_quote,412
+2018-01-22,Branded Search,save_quote,160
+2018-01-22,Branded Search,start_quote,476
+2018-01-22,Branded Search,visitors,1019
+2018-01-22,Direct Traffic,app_store,90
+2018-01-22,Direct Traffic,complete_quote,145
+2018-01-22,Direct Traffic,save_quote,79
+2018-01-22,Direct Traffic,start_quote,177
+2018-01-22,Direct Traffic,visitors,2873
+2018-01-22,Generic Search,app_store,391
+2018-01-22,Generic Search,complete_quote,2848
+2018-01-22,Generic Search,save_quote,1129
+2018-01-22,Generic Search,start_quote,3477
+2018-01-22,Generic Search,visitors,9675
+2018-01-22,Organic,app_store,114
+2018-01-22,Organic,complete_quote,380
+2018-01-22,Organic,save_quote,146
+2018-01-22,Organic,start_quote,427
+2018-01-22,Organic,visitors,1235
+2018-01-22,Paid search,app_store,112
+2018-01-22,Paid search,complete_quote,1639
+2018-01-22,Paid search,save_quote,416
+2018-01-22,Paid search,start_quote,2099
+2018-01-22,Paid search,visitors,4532
+2018-01-22,Referral link,app_store,141
+2018-01-22,Referral link,complete_quote,1080
+2018-01-22,Referral link,save_quote,644
+2018-01-22,Referral link,start_quote,1233
+2018-01-22,Referral link,visitors,2192
+2018-01-29,Branded Search,app_store,50
+2018-01-29,Branded Search,complete_quote,360
+2018-01-29,Branded Search,save_quote,139
+2018-01-29,Branded Search,start_quote,412
+2018-01-29,Branded Search,visitors,901
+2018-01-29,Direct Traffic,app_store,50
+2018-01-29,Direct Traffic,complete_quote,95
+2018-01-29,Direct Traffic,save_quote,47
+2018-01-29,Direct Traffic,start_quote,128
+2018-01-29,Direct Traffic,visitors,2586
+2018-01-29,Generic Search,app_store,313
+2018-01-29,Generic Search,complete_quote,2271
+2018-01-29,Generic Search,save_quote,850
+2018-01-29,Generic Search,start_quote,2818
+2018-01-29,Generic Search,visitors,10007
+2018-01-29,Organic,app_store,102
+2018-01-29,Organic,complete_quote,369
+2018-01-29,Organic,save_quote,138
+2018-01-29,Organic,start_quote,405
+2018-01-29,Organic,visitors,1150
+2018-01-29,Paid search,app_store,98
+2018-01-29,Paid search,complete_quote,1400
+2018-01-29,Paid search,save_quote,327
+2018-01-29,Paid search,start_quote,1847
+2018-01-29,Paid search,visitors,5650
+2018-01-29,Referral link,app_store,112
+2018-01-29,Referral link,complete_quote,757
+2018-01-29,Referral link,save_quote,471
+2018-01-29,Referral link,start_quote,839
+2018-01-29,Referral link,visitors,1650
+2018-02-05,Branded Search,app_store,48
+2018-02-05,Branded Search,complete_quote,301
+2018-02-05,Branded Search,save_quote,117
+2018-02-05,Branded Search,start_quote,353
+2018-02-05,Branded Search,visitors,778
+2018-02-05,Direct Traffic,app_store,24
+2018-02-05,Direct Traffic,complete_quote,83
+2018-02-05,Direct Traffic,save_quote,41
+2018-02-05,Direct Traffic,start_quote,98
+2018-02-05,Direct Traffic,visitors,2230
+2018-02-05,Generic Search,app_store,250
+2018-02-05,Generic Search,complete_quote,2135
+2018-02-05,Generic Search,save_quote,842
+2018-02-05,Generic Search,start_quote,2706
+2018-02-05,Generic Search,visitors,10661
+2018-02-05,Organic,app_store,94
+2018-02-05,Organic,complete_quote,311
+2018-02-05,Organic,save_quote,116
+2018-02-05,Organic,start_quote,364
+2018-02-05,Organic,visitors,1081
+2018-02-05,Paid search,app_store,95
+2018-02-05,Paid search,complete_quote,1233
+2018-02-05,Paid search,save_quote,302
+2018-02-05,Paid search,start_quote,1687
+2018-02-05,Paid search,visitors,6586
+2018-02-05,Referral link,app_store,83
+2018-02-05,Referral link,complete_quote,793
+2018-02-05,Referral link,save_quote,494
+2018-02-05,Referral link,start_quote,893
+2018-02-05,Referral link,visitors,1666
+2018-02-12,Branded Search,app_store,40
+2018-02-12,Branded Search,complete_quote,227
+2018-02-12,Branded Search,save_quote,90
+2018-02-12,Branded Search,start_quote,270
+2018-02-12,Branded Search,visitors,630
+2018-02-12,Direct Traffic,app_store,52
+2018-02-12,Direct Traffic,complete_quote,99
+2018-02-12,Direct Traffic,save_quote,43
+2018-02-12,Direct Traffic,start_quote,132
+2018-02-12,Direct Traffic,visitors,1609
+2018-02-12,Generic Search,app_store,318
+2018-02-12,Generic Search,complete_quote,2289
+2018-02-12,Generic Search,save_quote,725
+2018-02-12,Generic Search,start_quote,3007
+2018-02-12,Generic Search,visitors,8053
+2018-02-12,Organic,app_store,117
+2018-02-12,Organic,complete_quote,328
+2018-02-12,Organic,save_quote,109
+2018-02-12,Organic,start_quote,382
+2018-02-12,Organic,visitors,1119
+2018-02-12,Paid search,app_store,87
+2018-02-12,Paid search,complete_quote,1287
+2018-02-12,Paid search,save_quote,293
+2018-02-12,Paid search,start_quote,1806
+2018-02-12,Paid search,visitors,4385
+2018-02-12,Referral link,app_store,101
+2018-02-12,Referral link,complete_quote,794
+2018-02-12,Referral link,save_quote,368
+2018-02-12,Referral link,start_quote,948
+2018-02-12,Referral link,visitors,1733
+2018-02-19,Branded Search,app_store,52
+2018-02-19,Branded Search,complete_quote,214
+2018-02-19,Branded Search,save_quote,89
+2018-02-19,Branded Search,start_quote,260
+2018-02-19,Branded Search,visitors,651
+2018-02-19,Direct Traffic,app_store,28
+2018-02-19,Direct Traffic,complete_quote,87
+2018-02-19,Direct Traffic,save_quote,41
+2018-02-19,Direct Traffic,start_quote,117
+2018-02-19,Direct Traffic,visitors,1726
+2018-02-19,Generic Search,app_store,261
+2018-02-19,Generic Search,complete_quote,2243
+2018-02-19,Generic Search,save_quote,700
+2018-02-19,Generic Search,start_quote,3047
+2018-02-19,Generic Search,visitors,7567
+2018-02-19,Organic,app_store,97
+2018-02-19,Organic,complete_quote,277
+2018-02-19,Organic,save_quote,92
+2018-02-19,Organic,start_quote,362
+2018-02-19,Organic,visitors,1112
+2018-02-19,Paid search,app_store,100
+2018-02-19,Paid search,complete_quote,1458
+2018-02-19,Paid search,save_quote,329
+2018-02-19,Paid search,start_quote,2047
+2018-02-19,Paid search,visitors,4091
+2018-02-19,Referral link,app_store,88
+2018-02-19,Referral link,complete_quote,632
+2018-02-19,Referral link,save_quote,325
+2018-02-19,Referral link,start_quote,778
+2018-02-19,Referral link,visitors,1476
+2018-02-26,Branded Search,app_store,33
+2018-02-26,Branded Search,complete_quote,347
+2018-02-26,Branded Search,save_quote,130
+2018-02-26,Branded Search,start_quote,408
+2018-02-26,Branded Search,visitors,856
+2018-02-26,Direct Traffic,app_store,33
+2018-02-26,Direct Traffic,complete_quote,117
+2018-02-26,Direct Traffic,save_quote,63
+2018-02-26,Direct Traffic,start_quote,135
+2018-02-26,Direct Traffic,visitors,2382
+2018-02-26,Generic Search,app_store,293
+2018-02-26,Generic Search,complete_quote,2842
+2018-02-26,Generic Search,save_quote,921
+2018-02-26,Generic Search,start_quote,3759
+2018-02-26,Generic Search,visitors,12475
+2018-02-26,Organic,app_store,90
+2018-02-26,Organic,complete_quote,316
+2018-02-26,Organic,save_quote,113
+2018-02-26,Organic,start_quote,367
+2018-02-26,Organic,visitors,1145
+2018-02-26,Paid search,app_store,123
+2018-02-26,Paid search,complete_quote,1924
+2018-02-26,Paid search,save_quote,429
+2018-02-26,Paid search,start_quote,2695
+2018-02-26,Paid search,visitors,8348
+2018-02-26,Referral link,app_store,79
+2018-02-26,Referral link,complete_quote,820
+2018-02-26,Referral link,save_quote,439
+2018-02-26,Referral link,start_quote,956
+2018-02-26,Referral link,visitors,1635
