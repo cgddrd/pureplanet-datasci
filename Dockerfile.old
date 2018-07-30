@@ -7,21 +7,26 @@ ENV JUPYTER_PORT=8888
 
 COPY ./assets/ /assets/
 
-RUN apt-get update && apt-get install -y \
+RUN apt-get update && apt-get install -y --no-install-recommends \
         build-essential \
-        curl \
-        libssl-dev \
-        libffi-dev \
-        python3-dev \
-        software-properties-common \
+        wget \
         && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
-RUN add-apt-repository ppa:deadsnakes/ppa && apt-get update && apt-get install -y python3.6
+RUN ln -s /lib/x86_64-linux-gnu/libncursesw.so.5  /lib/x86_64-linux-gnu/libncursesw.so.6
 
-RUN curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py && python3 ./get-pip.py
+# Install miniconda to /miniconda
+RUN wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh --no-check-certificate
+RUN bash Miniconda3-latest-Linux-x86_64.sh -p /miniconda -b
+RUN rm Miniconda3-latest-Linux-x86_64.sh
+ENV PATH=/miniconda/bin:${PATH}
+RUN conda update -y conda
 
+
+RUN conda create -n ml python=3.6 
+RUN /bin/bash -c "source activate ml"
+RUN conda install -y -c conda-forge python=3.6 jupyterlab pip ipython
 RUN pip install -r /assets/requirements.txt
 
 # Set up our notebook config.
