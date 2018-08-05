@@ -3,3 +3,5 @@ numpy
 scipy
 jupyterlab
 jupyter
+matplotlib
+plotly
